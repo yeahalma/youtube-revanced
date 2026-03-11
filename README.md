@@ -1,7 +1,7 @@
 # Installation steps:
 
 >1. Download and install [MicroG/GmsCore](https://github.com/microg/GmsCore).
->2. Install the latest release of YouTube Revanced.
+>2. Download and Install the latest [release](https://github.com/yeahalma/youtube-revanced/releases) of YouTube Revanced.
 >3. Open the YouTube Revanced App.
 >4. Log Into Gms Core with your Google Account.
 >5. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
