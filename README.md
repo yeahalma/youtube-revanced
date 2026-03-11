@@ -4,7 +4,7 @@
 >2. Install the latest release of YouTube Revanced.
 >3. Open the YouTube Revanced App.
 >4. Log Into Gms Core with your Google Account.
->5. (Recommended to use Obtainium to download and install build updates.)
+>5. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
 
 # Patches:
 
